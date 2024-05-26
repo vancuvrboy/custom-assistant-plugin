@@ -2,8 +2,8 @@
     "id": "com.mattermost.custom-assistant-plugin",
     "name": "Custom Assistant Plugin",
     "description": "This plugin integrates an OpenAI assistant into Mattermost.",
-    "homepage_url": "https://github.com/your-username/custom-assistant-plugin",
-    "support_url": "https://github.com/your-username/custom-assistant-plugin/issues",
+    "homepage_url": "https://github.com/vancuvrboy/custom-assistant-plugin",
+    "support_url": "https://github.com/vancuvrboy/custom-assistant-plugin/issues",
     "icon_path": "assets/custom-assistant-plugin-icon.svg",
     "min_server_version": "6.2.1",
     "server": {
@@ -24,4 +24,5 @@
         "settings": []
     }
 }
+
 
