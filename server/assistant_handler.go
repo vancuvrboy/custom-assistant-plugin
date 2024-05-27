@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"time"
-
+	"github.com/dyatlov/go-opengraph"
 	"github.com/go-resty/resty/v2"
 	"github.com/mattermost/mattermost-server/v5/model"
 	"github.com/mattermost/mattermost-server/v5/plugin"
