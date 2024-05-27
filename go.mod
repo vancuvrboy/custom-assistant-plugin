@@ -15,8 +15,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
-	github.com/dyatlov/go-opengraph/opengraph v0.0.0-20220524092352-606d7b1e5f8a // indirect
-	// github.com/otiai10/opengraph v1.0.1
+	github.com/dyatlov/go-opengraph v0.0.0-20210112100619-dae8665a5b09 // indirect
 	github.com/fatih/color v1.16.0 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.5 // indirect
@@ -75,4 +74,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
